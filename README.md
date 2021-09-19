@@ -79,13 +79,13 @@
 	      <style>
 	          h3 { color: black; text-shadow: 1px 1px; }
 	      </style>
-	  <h1> Interests/Hobbies </h1>  
+	  <h3> Interests/Hobbies </h3>  
 	    <h3> <p class = "aqua-background"> On my free time, I would play some video games on my PC like Apex Legends, Rainbow Six Siege, Minecraft, GTA V, Escape from Tarkov, Elder Scrolls Online, Splitgate, etc. When it's not gaming, I like to do programming on my PC and continue learning different programming languages. I also enjoy working out with weights at home in my backyard. I also like to watch anime and tend to binge anime while doing work or gaming. Lastly, I like to make plans and hang out with friends. </p> </h3>   
 	  </div>
 	  <hr>
      <div class="col-lg-4">
 	     <div id = "favorite_websites">
-	  <h1> Favorite website </h1>
+	  <h3> Favorite website </h3>
 	  <div>
 	  <img src = "https://www.icegif.com/wp-content/uploads/one-piece-icegif-3.gif" width = "500" height = "400">
 	      </div>  
@@ -102,7 +102,7 @@
 	  <hr>
 	     <div class="col-lg-4">
 	   <div id = "favorite_song_film_show">
-	  <h1> Favorite song, film, & TV show </h1>
+	  <h3> Favorite song, film, & TV show </h3>
 	      <h2 style = "color: red;">  <p class = "pp"> Favorite Song </p> </h2>
 	   <iframe width="560" height="315" src="https://www.youtube.com/embed/mxFstYSbBmc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	  <p>  </p>
@@ -115,7 +115,7 @@
 	  <hr>  
 	  <div class="col-sm-4">
 	<div id = "course_projects">
-	  <h1> My projects in this course </h1>
+	  <h3> My projects in this course </h3>
 	    <ul>
 	      <li> <a href = "https://walterlow52.github.io/CUS-1172-Project-1/" target = "_blank"> Project 1- Milestone 1 </a> </li>
 	      <p class = "p1"> In this assignment, we created and deployed a profile HTML webpage. This project webpage is consisted of requirements and deliverables like the use of certain HTML tags and section requirements. For example, this HTML webpage includes basic profile information, education summary, work experience, programming skills, general interests, favorite song/movie/show, favorite website, menu, and project section. </p>  
