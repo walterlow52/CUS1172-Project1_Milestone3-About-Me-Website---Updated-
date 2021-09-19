@@ -50,15 +50,27 @@
 	  <hr>
     </div>
     <div class="col-sm-4">
-      <h3>Column 2</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+      <h3> Work Experience/Interships </h3>
+      <div id = "work_experience">
+	  <ul> 
+	      <li> <p class = "p0"> Volunteered at Queens Public Library (Homework Help Program) 2019-2020 </p> </li>
+	  </ul>
+	  </div>
+	  <hr>
     </div>
     <div class="col-sm-4">
       <h3>Column 3</h3>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
       <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
     </div>
+  </div>
+</div>
+	
+	<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+	    
+</div>
   </div>
 </div>
 
