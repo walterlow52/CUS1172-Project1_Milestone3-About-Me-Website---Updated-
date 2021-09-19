@@ -84,6 +84,23 @@
 	  </div>
 	  <hr>
      <div class="col-sm-4">
+	     <div id = "favorite_websites">
+	  <h1> Favorite website </h1>
+	  <div>
+	  <img src = "https://www.icegif.com/wp-content/uploads/one-piece-icegif-3.gif" width = "500" height = "400">
+	      </div>  
+	      <p class = "one"> The links listed below are anime streaming websites that I use to watch different types of animes. Most anime websites are filled with unwanted ads and sometimes even viruses too. The ones I've listed have no viruses, no excessive ads and is free. However, with an adblocker, no side or pop up ads will appear allowing you to watch anime without any interruptions. </p>
+	  <ol>
+	    <li> <a href = "https://www2.kickassanime.ro/" target = "_blank"> Anime Website 1 </a> </li>
+	    <p class = "double"> This website provides a large amount of different animes as well as a daily schedule of new episodes and releases. </p>
+	    <li> <a href = "https://animedao.to/animelist/popular" target = "_blank"> Anime Website 2 </a> </li>
+	    <p class = "double"> This website keeps up with new episodes and releases of different animes and provides an estimated release time for each episode. </p>
+	    <li> <a href = "https://www.wcostream.com/" target = "_blank"> Anime Website 3 </a> </li>
+	    <p class = "double"> This website provides huge library of different animes and cartoons in English sub and dub. </p>
+	  </ol>
+	  </div> 
+	  <hr>
+	     <div class="col-sm-4">
 	   <div id = "favorite_song_film_show">
 	  <h1> Favorite song, film, & TV show </h1>
 	      <h2 style = "color: red;">  <p class = "pp"> Favorite Song </p> </h2>
