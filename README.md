@@ -1,4 +1,3 @@
-# CUS1172-Project1_Milestone3
 <html lang="en">
 <head>
   <meta charset="utf-8">
