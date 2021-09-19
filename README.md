@@ -36,7 +36,7 @@
 	  <hr>
 </div>
 
-<div class="container">
+<div class="container-fluid">
   <div class="row">
     <div class="col-sm-4">
 <div id = "education_summary">
@@ -51,7 +51,7 @@
     </div>
     </div>
     </div>
-    <div class="container">
+    <div class="container-fluid">
     <div class="row">
     <div class="col-sm-4">
       <div id = "work_experience">
