@@ -1,5 +1,4 @@
 # CUS1172-Project1_Milestone3
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <title> CUS1172 Project 1 Milestone 3 </title>
