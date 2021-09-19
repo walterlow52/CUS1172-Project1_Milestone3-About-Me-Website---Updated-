@@ -62,8 +62,6 @@
 	  </div>
 	  <hr>
     </div>
-    </div>
-    </div>
     <div class="col-sm-4">
       <div id = "programming_skills">
 	  <h3> Programming Skills </h3>
@@ -74,6 +72,8 @@
 	    </ul>
 	  </div> 
 	  <hr>
+    </div>
+    </div>
     </div>
 	<div class="container">
   <div class="row">
