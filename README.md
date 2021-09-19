@@ -75,7 +75,7 @@
     </div>
     </div>
     </div>
-    <div class="col-sm">
+    <div class="col-sm-4">
 	  <div id = "interests_hobbies">  
 	      <style>
 	          h3 { color: black; text-shadow: 1px 1px; }
