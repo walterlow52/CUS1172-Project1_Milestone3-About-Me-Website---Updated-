@@ -78,14 +78,14 @@
 	      <style>
 	          h3 { color: black; text-shadow: 1px 1px; }
 	      </style>
-	  <h3> Interests/Hobbies </h3>  
+	  <h1> Interests/Hobbies </h1>  
 	    <h3> <p class = "aqua-background"> On my free time, I would play some video games on my PC like Apex Legends, Rainbow Six Siege, Minecraft, GTA V, Escape from Tarkov, Elder Scrolls Online, Splitgate, etc. When it's not gaming, I like to do programming on my PC and continue learning different programming languages. I also enjoy working out with weights at home in my backyard. I also like to watch anime and tend to binge anime while doing work or gaming. Lastly, I like to make plans and hang out with friends. </p> </h3>   
 	  </div>
 	  <hr>
 	</div>
      <div class="col-xl-8">
 	     <div id = "favorite_websites">
-	  <h3> Favorite website </h3>
+	  <h1> Favorite website </h1>
 	  <div>
 	  <img src = "https://www.icegif.com/wp-content/uploads/one-piece-icegif-3.gif" width = "500" height = "400">
 	      </div>  
@@ -105,7 +105,7 @@
 <div class="row">
 	<div class="col-sm-4">
 	<div id = "course_projects">
-	  <h3> My projects in this course </h3>
+	  <h1> My projects in this course </h1>
 	    <ul>
 	      <li> <a href = "https://walterlow52.github.io/CUS-1172-Project-1/" target = "_blank"> Project 1- Milestone 1 </a> </li>
 	      <p class = "p1"> In this assignment, we created and deployed a profile HTML webpage. This project webpage is consisted of requirements and deliverables like the use of certain HTML tags and section requirements. For example, this HTML webpage includes basic profile information, education summary, work experience, programming skills, general interests, favorite song/movie/show, favorite website, menu, and project section. </p>  
@@ -113,7 +113,7 @@
 	      <p class = "p1"> In this assignment, we use CSS to style our HTML profile webpage from milestone one while following all the deliverables required for this project. To style the project with CSS, two additional CSS files were added to the project (mycss_web.css & mycss_tablet.css). Each file would contain its own unique styling which will then be linked to the original HTML webpage file. For example, the web CSS file would consist of the styling for the webpage while the tablet CSS file would distinguish how the webpage will be viewed on a different media device using responsive design. </p>
 	     <div class="col-xl-8">
 	   <div id = "favorite_song_film_show">
-	  <h3> Favorite song, film, & TV show </h3>
+	  <h1> Favorite song, film, & TV show </h1>
 	      <h2 style = "color: red;">  <p class = "pp"> Favorite Song </p> </h2>
 	   <iframe width="400" height="315" src="https://www.youtube.com/embed/mxFstYSbBmc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	  <p>  </p>
