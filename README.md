@@ -9,6 +9,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 </head>
+<body>
 	<h4> <p class = "screen_only"> Section Menu </p> </h4>
 	    <nav>
 	    <ul class = "ace">
@@ -22,7 +23,6 @@
 	      <li> <a href = "#course_projects"> <p class = "screen_only"> Course Projects </p> </a> </li>  
 	    </ul>
 	      <p>  </p>
-<body>
 
 <div class="jumbotron text-center">
   <div id = "profile_information"> </div> 
@@ -52,7 +52,6 @@
     <div class="col-sm-4">
       <div id = "work_experience">
       <h3> Work Experience/Interships </h3>
-      <div id = "work_experience">
 	  <ul> 
 	      <li> <p class = "p0"> Volunteered at Queens Public Library (Homework Help Program) 2019-2020 </p> </li>
 	  </ul>
