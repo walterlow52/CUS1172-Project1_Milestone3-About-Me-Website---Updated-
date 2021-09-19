@@ -60,8 +60,6 @@
 	  </div>
 	  <hr>
     </div>
-    <div class="container-fluid">
-    <div class="row">
     <div class="col-4">
       <div id = "programming_skills">
 	  <h3> Programming Skills </h3>
