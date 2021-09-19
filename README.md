@@ -83,7 +83,7 @@
 	    <h3> <p class = "aqua-background"> On my free time, I would play some video games on my PC like Apex Legends, Rainbow Six Siege, Minecraft, GTA V, Escape from Tarkov, Elder Scrolls Online, Splitgate, etc. When it's not gaming, I like to do programming on my PC and continue learning different programming languages. I also enjoy working out with weights at home in my backyard. I also like to watch anime and tend to binge anime while doing work or gaming. Lastly, I like to make plans and hang out with friends. </p> </h3>   
 	  </div>
 	  <hr>
-     <div class="col-md-4">
+     <div class="col-lg-4">
 	     <div id = "favorite_websites">
 	  <h1> Favorite website </h1>
 	  <div>
@@ -100,7 +100,7 @@
 	  </ol>
 	  </div> 
 	  <hr>
-	     <div class="col-sm-4">
+	     <div class="col-lg-4">
 	   <div id = "favorite_song_film_show">
 	  <h1> Favorite song, film, & TV show </h1>
 	      <h2 style = "color: red;">  <p class = "pp"> Favorite Song </p> </h2>
