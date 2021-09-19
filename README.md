@@ -60,9 +60,15 @@
 	  <hr>
     </div>
     <div class="col-sm-4">
-      <h3>Column 3</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+      <div id = "programming_skills">
+	  <h3> Programming Skills </h3>
+	    <ul>
+	    <li> <p style = "background-color:blue;"> Java- For my first year in college (September 2019- May 2020) I learned to use Eclipse which is an application of Java and I continued to use it since. </p> </li>
+	    <li> <p style = "background-color:blue;"> Python- I was introduced to Python in my senior year of high school in my computer science class. Currently I am continuing to teach myself Python on my free time. </p> </li>
+	    <li> <p style = "background-color:blue;"> SQL- I used NOSQL for my database management systems class in my second year of college, but have not continued afterwards. </p> </li>   
+	    </ul>
+	  </div> 
+	  <hr>
     </div>
   </div>
 </div>
