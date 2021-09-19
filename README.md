@@ -39,7 +39,15 @@
 <div class="container">
   <div class="row">
     <div class="col-sm-4">
-      <h3>Column 1</h3>
+      <h3> Education </h3>
+	    <div id = "education_summary">
+	  <p id = "educationborder"> For my first year in high school (2015), I started out in a high school in Florida named Cypress Creek High School where I got introduced into Information Technology which ended up being my major for St John's University. However, I transferred from that school in early 2016 and moved to New York. I continued my years of high school in High School for Construction Trades, Engineering, and Architecture. I decided to study engineering at that school where I learned computer, electrical and mechanical engineering. Once I graduated and got my diploma, I decided to go to St John's University and continue Information Technology. During my years in St John's, I've taken many IT classes like data analytics, computer programming, database management systems, systems analysis, cyber security, IT for business, and currently taking web development. </p>
+	  <ul>
+	    <h2> Diplomas/Degrees </h2>
+	    <li> High School Diploma </li>
+	  </ul>
+	  </div> 
+	  <hr>
     </div>
     <div class="col-sm-4">
       <h3>Column 2</h3>
