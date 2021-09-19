@@ -49,6 +49,8 @@
 	  </div> 
 	  <hr>
     </div>
+    <div class="container">
+    <div class="row">
     <div class="col-sm-4">
       <div id = "work_experience">
       <h3> Work Experience/Interships </h3>
