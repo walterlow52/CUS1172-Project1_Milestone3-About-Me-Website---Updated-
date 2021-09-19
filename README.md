@@ -111,7 +111,7 @@
 	      <p class = "p1"> In this assignment, we created and deployed a profile HTML webpage. This project webpage is consisted of requirements and deliverables like the use of certain HTML tags and section requirements. For example, this HTML webpage includes basic profile information, education summary, work experience, programming skills, general interests, favorite song/movie/show, favorite website, menu, and project section. </p>  
 	      <li> <a href = "https://walterlow52.github.io/CUS-1172-Project-1/" target = "_blank"> Project 1- Milestone 2 </a> </li>
 	      <p class = "p1"> In this assignment, we use CSS to style our HTML profile webpage from milestone one while following all the deliverables required for this project. To style the project with CSS, two additional CSS files were added to the project (mycss_web.css & mycss_tablet.css). Each file would contain its own unique styling which will then be linked to the original HTML webpage file. For example, the web CSS file would consist of the styling for the webpage while the tablet CSS file would distinguish how the webpage will be viewed on a different media device using responsive design. </p>
-	     <div class="col-sm-8">
+	     <div class="col-xl-8">
 	   <div id = "favorite_song_film_show">
 	  <h3> Favorite song, film, & TV show </h3>
 	      <h2 style = "color: red;">  <p class = "pp"> Favorite Song </p> </h2>
