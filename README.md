@@ -51,8 +51,6 @@
     </div>
     </div>
     </div>
-    <div class="container-fluid">
-    <div class="row">
     <div class="col-sm-4">
       <div id = "work_experience">
       <h3> Work Experience/Interships </h3>
@@ -62,6 +60,8 @@
 	  </div>
 	  <hr>
     </div>
+    <div class="container-fluid">
+    <div class="row">
     <div class="col-sm-4">
       <div id = "programming_skills">
 	  <h3> Programming Skills </h3>
