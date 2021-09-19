@@ -48,9 +48,7 @@
 	  </ul>
 	  </div> 
 	  <hr>
-    </div>
-    </div>
-    </div>
+	</div>
     <div class="col-sm-4">
       <div id = "work_experience">
       <h3> Work Experience/Interships </h3>
@@ -71,6 +69,8 @@
 	  </div> 
 	  <hr>
     </div>
+    </div>
+    </div>
 	<div class="container">
 <div class="row">
     <div class="col-sm-4">
@@ -82,6 +82,7 @@
 	    <h3> <p class = "aqua-background"> On my free time, I would play some video games on my PC like Apex Legends, Rainbow Six Siege, Minecraft, GTA V, Escape from Tarkov, Elder Scrolls Online, Splitgate, etc. When it's not gaming, I like to do programming on my PC and continue learning different programming languages. I also enjoy working out with weights at home in my backyard. I also like to watch anime and tend to binge anime while doing work or gaming. Lastly, I like to make plans and hang out with friends. </p> </h3>   
 	  </div>
 	  <hr>
+	</div>
      <div class="col-xl-4">
 	     <div id = "favorite_websites">
 	  <h3> Favorite website </h3>
@@ -99,6 +100,7 @@
 	  </ol>
 	  </div> 
 	  <hr>
+	</div>
 	     <div class="col-xl-4">
 	   <div id = "favorite_song_film_show">
 	  <h3> Favorite song, film, & TV show </h3>
@@ -112,6 +114,7 @@
 	    <iframe width="560" height="315" src="https://www.youtube.com/embed/IKa6aPyC-U4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	  </div>
 	  <hr>  
+	</div>
 	  <div class="col-4">
 	<div id = "course_projects">
 	  <h3> My projects in this course </h3>
@@ -122,6 +125,8 @@
 	      <p class = "p1"> In this assignment, we use CSS to style our HTML profile webpage from milestone one while following all the deliverables required for this project. To style the project with CSS, two additional CSS files were added to the project (mycss_web.css & mycss_tablet.css). Each file would contain its own unique styling which will then be linked to the original HTML webpage file. For example, the web CSS file would consist of the styling for the webpage while the tablet CSS file would distinguish how the webpage will be viewed on a different media device using responsive design. </p>
 	      </ul>
 	<hr>
+		  </div>
+	</div>
 <style>
 	            h4 {text-decoration: underline;}
 	        </style>
