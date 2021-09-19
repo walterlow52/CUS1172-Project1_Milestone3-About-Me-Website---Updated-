@@ -103,7 +103,7 @@
 	</div>
 	<div class="container">
 <div class="row">
-	<div class="col-sm-6">
+	<div class="col-sm-4">
 	<div id = "course_projects">
 	  <h1> My projects in this course </h1>
 	    <ul>
