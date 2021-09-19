@@ -114,6 +114,67 @@
 	  </div>
 	  <hr>  
 	  <div class="col-sm-4">
+	<div id = "course_projects">
+	  <h1> My projects in this course </h1>
+	    <ul>
+	      <li> <a href = "https://walterlow52.github.io/CUS-1172-Project-1/" target = "_blank"> Project 1- Milestone 1 </a> </li>
+	      <p class = "p1"> In this assignment, we created and deployed a profile HTML webpage. This project webpage is consisted of requirements and deliverables like the use of certain HTML tags and section requirements. For example, this HTML webpage includes basic profile information, education summary, work experience, programming skills, general interests, favorite song/movie/show, favorite website, menu, and project section. </p>  
+	      <li> <a href = "https://walterlow52.github.io/CUS-1172-Project-1/" target = "_blank"> Project 1- Milestone 2 </a> </li>
+	      <p class = "p1"> In this assignment, we use CSS to style our HTML profile webpage from milestone one while following all the deliverables required for this project. To style the project with CSS, two additional CSS files were added to the project (mycss_web.css & mycss_tablet.css). Each file would contain its own unique styling which will then be linked to the original HTML webpage file. For example, the web CSS file would consist of the styling for the webpage while the tablet CSS file would distinguish how the webpage will be viewed on a different media device using responsive design. </p>
+	      </ul>
+	<hr>
+<style>
+	            h4 {text-decoration: underline;}
+	        </style>
+	        <h4> <p id = "heading"> Rate this HTML website on a scale of 1 to 5: </p> </h4>
+	      <img src = "https://image.shutterstock.com/image-vector/thumbs-downstock-vector-260nw-775563916.jpg" width = "300" height = "200">
+	        <style>
+	  table, th, td {
+	  border: 1px solid white;
+	  border-collapse: collapse;
+	}
+	   </style>
+	        <table style = "width:20%">
+	            <tr>
+	                <td> 5 </td>
+	                <td> Great </td>
+	            </tr>
+	            <tr>
+	                <td> 4 </td>
+	                <td> Good </td>
+	            </tr>
+	            <tr>
+	                <td> 3 </td>
+	                <td> OK </td>
+	            </tr>
+	            <tr>
+	                <td> 2 </td>
+	                <td> Not Good </td>
+	            </tr>
+	            <tr>
+	                <td> 1 </td>
+	                <td> Terrible </td>
+	            </tr>
+	        </table>
+	        <p>  </p>
+	        <p>  </p> 
+	<form action = "https://jayeshkawli.ghost.io/content/images/2016/04/Screen-Shot-2016-04-03-at-10-40-15-PM.png"> 
+	    <div>
+	      <input type = "radio" id = "5" name = "five" value = "5">
+	      <label for = "5"> 5 </label> <br>
+	      <input type = "radio" id = "4" name = "four" value = "4">
+	      <label for = "4"> 4 </label> <br>
+	        <input type = "radio" id = "3" name = "three" value = "3">
+	      <label for = "3"> 3 </label> <br>
+	        <input type = "radio" id = "2" name = "two" value = "2">
+	      <label for = "2"> 2 </label> <br>
+	        <input type = "radio" id = "1" name = "one" value = "1">
+	      <label for = "1"> 1 </label> <br>
+	    </div>
+	    <div> 
+	      <input type = "submit" value = "submit">
+	    </div>
+	        </form>
 </div>
   </div>
 </div>
