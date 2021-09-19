@@ -75,7 +75,7 @@
     </div>
     </div>
     </div>
-    <div class="col-sm-4">
+    <div class="col-sm">
 	  <div id = "interests_hobbies">  
 	      <style>
 	          h3 { color: black; text-shadow: 1px 1px; }
@@ -84,7 +84,7 @@
 	    <h3> <p class = "aqua-background"> On my free time, I would play some video games on my PC like Apex Legends, Rainbow Six Siege, Minecraft, GTA V, Escape from Tarkov, Elder Scrolls Online, Splitgate, etc. When it's not gaming, I like to do programming on my PC and continue learning different programming languages. I also enjoy working out with weights at home in my backyard. I also like to watch anime and tend to binge anime while doing work or gaming. Lastly, I like to make plans and hang out with friends. </p> </h3>   
 	  </div>
 	  <hr>
-     <div class="col-sm-4">
+     <div class="col-sm">
 	     <div id = "favorite_websites">
 	  <h3> Favorite website </h3>
 	  <div>
@@ -101,7 +101,7 @@
 	  </ol>
 	  </div> 
 	  <hr>
-	     <div class="col-sm-4">
+	     <div class="col-sm">
 	   <div id = "favorite_song_film_show">
 	  <h3> Favorite song, film, & TV show </h3>
 	      <h2 style = "color: red;">  <p class = "pp"> Favorite Song </p> </h2>
@@ -114,7 +114,7 @@
 	    <iframe width="560" height="315" src="https://www.youtube.com/embed/IKa6aPyC-U4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	  </div>
 	  <hr>  
-	  <div class="col-sm-4">
+	  <div class="col-sm">
 	<div id = "course_projects">
 	  <h3> My projects in this course </h3>
 	    <ul>
