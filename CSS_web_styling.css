@@ -20,10 +20,10 @@ ul li {margin: 10px;}
   background-color: black;
   text-align: center;
 }
-.pp {color:white; font-family: "Copperplate", fantasy;}
+.pp {font-family: "Copperplate", fantasy;}
 .p0 {color:white; font-family: "Times New Roman", serif;}
 p.one {color:white; border-style: double; border-color: black;}
-p.double {border-style: double; border-color: yellow;}
+p.double {color:white; border-style: double; border-color: yellow;}
 .p1 {color: aqua; font-family: "Lucida Handwriting", cursive;}
 a {color: crimson;}
 img {border-radius: 10px;} 
