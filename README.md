@@ -102,7 +102,7 @@
 	  </div> 
 	  <hr>
 	</div>
-<div class="container">
+<div class="container-fluid">
 <div class="row">
 <div class="col-xl">
 <div id = "favorite_song_film_show">
@@ -129,7 +129,7 @@
 	<hr>
 </div>
 </div>
-<div class="container">
+<div class="container-fluid">
 <div class="row">
 <div class="col-12" style ="background-color:grey;">
 <style>
