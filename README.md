@@ -14,13 +14,13 @@
 <nav>
 <ul class = "ace">
 	<li> <a href = "#profile_information"> <p class = "screen_only"> <button type="button" class="btn btn-info"> Profile Information </button> </p> </a> </li>
-	<li> <a href = "#education_summary">  <p class = "screen_only"> Education </p> </a> </li>
-	<li> <a href = "#work_experience"> <p class = "screen_only"> Work Experience </p> </a> </li>
-	<li> <a href = "#programming_skills"> <p class = "screen_only"> Programming Skills </p> </a> </li>
-        <li> <a href = "#interests_hobbies"> <p class = "screen_only"> Interests/Hobbies </p> </a> </li>
-	<li> <a href = "#favorite_song_film_show"> <p class = "screen_only"> Favorite song/film/TV show </p> </a> </li>
-	<li> <a href = "#favorite_websites"> <p class = "screen_only"> Favorite Websites </p> </a> </li>
-	<li> <a href = "#course_projects"> <p class = "screen_only"> Course Projects </p> </a> </li>  
+	<li> <a href = "#education_summary">  <p class = "screen_only"> <button type="button" class="btn btn-info"> Education </button> </p> </a> </li>
+	<li> <a href = "#work_experience"> <p class = "screen_only"> <button type="button" class="btn btn-info"> Work Experience </button> </p> </a> </li>
+	<li> <a href = "#programming_skills"> <p class = "screen_only"> <button type="button" class="btn btn-info"> Programming Skills </button> </p> </a> </li>
+        <li> <a href = "#interests_hobbies"> <p class = "screen_only"> <button type="button" class="btn btn-info"> Interests/Hobbies </button> </p> </a> </li>
+	<li> <a href = "#favorite_song_film_show"> <p class = "screen_only"> <button type="button" class="btn btn-info"> Favorite song/film/TV show </button> </p> </a> </li>
+	<li> <a href = "#favorite_websites"> <p class = "screen_only"> <button type="button" class="btn btn-info"> Favorite Websites </button> </p> </a> </li>
+	<li> <a href = "#course_projects"> <p class = "screen_only"> <button type="button" class="btn btn-info"> Course Projects </button> </p> </a> </li>  
 </ul>
 <p>  </p>
 
