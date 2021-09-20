@@ -143,23 +143,23 @@
 	}
 	   </style>
 	        <table style = "width:20%">
-	            <tr>
+	            <tr class = "table-primary">
 	                <td> 5 </td>
 	                <td> Great </td>
 	            </tr>
-	            <tr>
+	            <tr class = "table-success">
 	                <td> 4 </td>
 	                <td> Good </td>
 	            </tr>
-	            <tr>
+	            <tr class = "table-light">
 	                <td> 3 </td>
 	                <td> OK </td>
 	            </tr>
-	            <tr>
+	            <tr class = "table-warning">
 	                <td> 2 </td>
 	                <td> Not Good </td>
 	            </tr>
-	            <tr>
+	            <tr class = "table-danger">
 	                <td> 1 </td>
 	                <td> Terrible </td>
 	            </tr>
