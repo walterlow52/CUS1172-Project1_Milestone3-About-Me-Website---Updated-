@@ -20,13 +20,6 @@ ul li {margin: 10px;}
   background-color: black;
   text-align: center;
 }
-#educationborder {
-  border-radius: 20px;
-  background: darkslategray;
-  padding: 20px;
-  width: 400px;
-  height: 390px;
-}   
 .pp {font-family: "Copperplate", fantasy;}
 .p0 {font-family: "Times New Roman", serif;}
 p.one {border-style: double; border-color: black;}
