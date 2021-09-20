@@ -146,7 +146,7 @@
 	        <table style = "width:20%">
 	            <tr class = "table-primary">
 	                <td> 5 </td>
-	                <td> Great </td>
+			<td> Great <i class="fas fa-thumbs-up"> </i> </td>
 	            </tr>
 	            <tr class = "table-success">
 	                <td> 4 </td>
@@ -162,7 +162,7 @@
 	            </tr>
 	            <tr class = "table-danger">
 	                <td> 1 </td>
-	                <td> Terrible </td>
+			<td> Terrible <i class="fas fa-thumbs-down"> </i> </td>
 	            </tr>
 	        </table>
 	        <p>  </p>
@@ -170,7 +170,7 @@
 	<form action = "https://jayeshkawli.ghost.io/content/images/2016/04/Screen-Shot-2016-04-03-at-10-40-15-PM.png"> 
 	    <div>
 	      <input type = "radio" id = "5" name = "five" value = "5">
-	      <label for = "5"> 5 <i class="fas fa-thumbs-up"> </label> </i> <br>
+	      <label for = "5"> 5 </label> <br>
 	      <input type = "radio" id = "4" name = "four" value = "4">
 	      <label for = "4"> 4 </label> <br>
 	        <input type = "radio" id = "3" name = "three" value = "3">
@@ -178,7 +178,7 @@
 	        <input type = "radio" id = "2" name = "two" value = "2">
 	      <label for = "2"> 2 </label> <br>
 	        <input type = "radio" id = "1" name = "one" value = "1">
-	      <label for = "1"> 1 <i class="fas fa-thumbs-down"> </label> </i> <br>
+	      <label for = "1"> 1 </label> <br>
 	    </div>
 	    <div> 
 	      <input type = "submit" value = "submit">
