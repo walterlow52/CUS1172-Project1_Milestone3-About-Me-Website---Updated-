@@ -103,14 +103,6 @@
 	</div>
 	<div class="container">
 <div class="row">
-	<div class="col-sm">
-	<div id = "course_projects">
-	  <h1> My projects in this course </h1>
-	    <ul>
-	      <li> <a href = "https://walterlow52.github.io/CUS-1172-Project-1/" target = "_blank"> Project 1- Milestone 1 </a> </li>
-	      <p class = "p1"> In this assignment, we created and deployed a profile HTML webpage. This project webpage is consisted of requirements and deliverables like the use of certain HTML tags and section requirements. For example, this HTML webpage includes basic profile information, education summary, work experience, programming skills, general interests, favorite song/movie/show, favorite website, menu, and project section. </p>  
-	      <li> <a href = "https://walterlow52.github.io/CUS-1172-Project-1/" target = "_blank"> Project 1- Milestone 2 </a> </li>
-	      <p class = "p1"> In this assignment, we use CSS to style our HTML profile webpage from milestone one while following all the deliverables required for this project. To style the project with CSS, two additional CSS files were added to the project (mycss_web.css & mycss_tablet.css). Each file would contain its own unique styling which will then be linked to the original HTML webpage file. For example, the web CSS file would consist of the styling for the webpage while the tablet CSS file would distinguish how the webpage will be viewed on a different media device using responsive design. </p>
 	     <div class="col-xl">
 	   <div id = "favorite_song_film_show">
 	  <h1> Favorite song, film, & TV show </h1>
@@ -123,7 +115,15 @@
 	      <h2 style = "color: white"> <p class = "pp"> Favorite TV Show </p> </h2>
 	    <iframe width="500" height="315" src="https://www.youtube.com/embed/IKa6aPyC-U4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	  </div>
-	  <hr>  
+	  <hr>
+		     <div class="col-sm">
+	<div id = "course_projects">
+	  <h1> My projects in this course </h1>
+	    <ul>
+	      <li> <a href = "https://walterlow52.github.io/CUS-1172-Project-1/" target = "_blank"> Project 1- Milestone 1 </a> </li>
+	      <p class = "p1"> In this assignment, we created and deployed a profile HTML webpage. This project webpage is consisted of requirements and deliverables like the use of certain HTML tags and section requirements. For example, this HTML webpage includes basic profile information, education summary, work experience, programming skills, general interests, favorite song/movie/show, favorite website, menu, and project section. </p>  
+	      <li> <a href = "https://walterlow52.github.io/CUS-1172-Project-1/" target = "_blank"> Project 1- Milestone 2 </a> </li>
+	      <p class = "p1"> In this assignment, we use CSS to style our HTML profile webpage from milestone one while following all the deliverables required for this project. To style the project with CSS, two additional CSS files were added to the project (mycss_web.css & mycss_tablet.css). Each file would contain its own unique styling which will then be linked to the original HTML webpage file. For example, the web CSS file would consist of the styling for the webpage while the tablet CSS file would distinguish how the webpage will be viewed on a different media device using responsive design. </p>
 	</div>
 	      </ul>
 	<hr>
