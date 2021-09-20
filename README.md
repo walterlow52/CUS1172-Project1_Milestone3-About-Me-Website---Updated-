@@ -170,7 +170,7 @@
 	<form action = "https://jayeshkawli.ghost.io/content/images/2016/04/Screen-Shot-2016-04-03-at-10-40-15-PM.png"> 
 	    <div>
 	      <input type = "radio" id = "5" name = "five" value = "5">
-	      <label for = "5"> 5 </label> <br>
+	      <label for = "5"> 5 </label> <i class="fas fa-thumbs-up"> </i> <br>
 	      <input type = "radio" id = "4" name = "four" value = "4">
 	      <label for = "4"> 4 </label> <br>
 	        <input type = "radio" id = "3" name = "three" value = "3">
@@ -178,7 +178,7 @@
 	        <input type = "radio" id = "2" name = "two" value = "2">
 	      <label for = "2"> 2 </label> <br>
 	        <input type = "radio" id = "1" name = "one" value = "1">
-	      <label for = "1"> 1 </label> <br>
+	      <label for = "1"> 1 </label> <i class="fas fa-thumbs-down"> </i> <br>
 	    </div>
 	    <div> 
 	      <input type = "submit" value = "submit">
