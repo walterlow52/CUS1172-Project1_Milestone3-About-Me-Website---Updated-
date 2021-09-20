@@ -130,7 +130,7 @@
 	</div>
 	<div class="container">
 <div class="row">
-	<div class="col-12">
+	<div class="col-12" style ="background-color:white;">
 <style>
 	            h4 {text-decoration: underline;}
 	        </style>
