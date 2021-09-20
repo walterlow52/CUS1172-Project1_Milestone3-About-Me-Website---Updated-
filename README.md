@@ -54,6 +54,7 @@
       <h1> Work Experience/Interships </h1>
 	  <ul> 
 	      <li> <p class = "p0"> Volunteered at Queens Public Library (Homework Help Program) 2019-2020 </p> </li>
+		  <div class = "spinner-border text-light"> </div> 
 	  </ul>
 	  </div>
 	  <hr>
