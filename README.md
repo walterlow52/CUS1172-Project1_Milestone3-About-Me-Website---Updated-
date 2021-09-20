@@ -26,7 +26,7 @@
 
 <div class="jumbotron text-center">
   <div id = "profile_information"> </div> 
-	  <img src = "https://user-images.githubusercontent.com/79463731/133340916-e54949bf-1318-4d0f-946f-32ef15bc2602.JPG" width = "500" height = "500">
+	  <img src = "https://user-images.githubusercontent.com/79463731/133340916-e54949bf-1318-4d0f-946f-32ef15bc2602.JPG" class = "rounded-circle" width = "500" height = "500">
 	  <h1 style = "background-color:black;text-align:center"> <span style = "color: blue; font-weight: bold"> WALTER LOW  </span> </h1>
 	  <h2 style = "background-color:black;text-align:center"> Gender: Male </h2> 
 	  <h2 style = "background-color:black;text-align:center"> Date of Birth: 04/15/2001 </h2>
