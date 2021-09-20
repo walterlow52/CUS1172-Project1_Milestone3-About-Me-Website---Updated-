@@ -64,8 +64,8 @@
 	  <h1> Programming Skills </h1>
 	    <ul>
 		    <li> <p style = "background-color:blue; color:white;"> <mark> Java- </mark> For my first year in college (September 2019- May 2020) I learned to use Eclipse which is an application of Java and I continued to use it since. </p> </li>
-	    <li> <p style = "background-color:blue; color:white;"> Python- I was introduced to Python in my senior year of high school in my computer science class. Currently I am continuing to teach myself Python on my free time. </p> </li>
-	    <li> <p style = "background-color:blue; color:white;"> SQL- I used NOSQL for my database management systems class in my second year of college, but have not continued afterwards. </p> </li>   
+		    <li> <p style = "background-color:blue; color:white;"> <mark> Python- </mark> I was introduced to Python in my senior year of high school in my computer science class. Currently I am continuing to teach myself Python on my free time. </p> </li>
+		    <li> <p style = "background-color:blue; color:white;"> <mark> SQL- </mark> I used NOSQL for my database management systems class in my second year of college, but have not continued afterwards. </p> </li>   
 	    </ul>
 	    </div> 
 	    <hr>
